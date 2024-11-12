@@ -1,0 +1,6 @@
+TICKER	INDICE	FONTE	 QTD_TEORICA 	 PESO
+ENEV3	IBOV	B3	            1.579.821.370 	                                    1,0324
+BBSE3	IBOV	B3	               637.332.335 	                                    1,0238
+VIVT3	IBOV	B3	               407.257.128 	                                    1,0213
+CMIG4	IBOV	B3	            1.858.636.840 	                                    0,9616
+BRFS3	IBOV	B3	               814.523.002 	                                    0,9244

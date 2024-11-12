@@ -1,0 +1,4 @@
+questões obrigatórias:
+   SQL: exercícios 1 e 2
+   Python: exercício 2
+   Lógica: exercícios 1 e 4
